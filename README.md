@@ -8,6 +8,7 @@ the answer of Data-Structures-and-Algorithm-Analysis-in-C
   - Linux version 5.4.51
   - gcc version 4.9.3
 - The answers to the arithmetic questions refer to the official answers (pdf files under each chapter)
+- The program does not perform a complete format check on the input
 - If you have any suggestions or questions, please leave a message or submit in time.
 - Welcome to discuss and join
 
